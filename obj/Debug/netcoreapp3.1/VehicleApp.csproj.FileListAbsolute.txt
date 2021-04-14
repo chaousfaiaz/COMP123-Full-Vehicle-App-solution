@@ -1,0 +1,15 @@
+C:\Users\AdminWCI\source\repos\VehicleApp\bin\Debug\netcoreapp3.1\VehicleApp.exe
+C:\Users\AdminWCI\source\repos\VehicleApp\bin\Debug\netcoreapp3.1\VehicleApp.deps.json
+C:\Users\AdminWCI\source\repos\VehicleApp\bin\Debug\netcoreapp3.1\VehicleApp.runtimeconfig.json
+C:\Users\AdminWCI\source\repos\VehicleApp\bin\Debug\netcoreapp3.1\VehicleApp.runtimeconfig.dev.json
+C:\Users\AdminWCI\source\repos\VehicleApp\bin\Debug\netcoreapp3.1\VehicleApp.dll
+C:\Users\AdminWCI\source\repos\VehicleApp\bin\Debug\netcoreapp3.1\VehicleApp.pdb
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.csprojAssemblyReference.cache
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.frmVehicles.resources
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.csproj.GenerateResource.cache
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.AssemblyInfoInputs.cache
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.AssemblyInfo.cs
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.csproj.CoreCompileInputs.cache
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.dll
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.pdb
+C:\Users\AdminWCI\source\repos\VehicleApp\obj\Debug\netcoreapp3.1\VehicleApp.genruntimeconfig.cache
